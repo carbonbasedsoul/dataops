@@ -1,25 +1,4 @@
-# Sample application
+By using multistage, size of the image has been reduced from 558 MB to 374 MB
 
-This is a sample application to visualize dependency between objects. 
-
-Creates Web Ui on 8050 port once ran. 
-
-## Requirements
-
-Python >3.7 is a requirement. 
-
-## Installation
-
-```
-pip3 install networkx dash plotly
-```
-
-## How to run
-
-```
-python3 GraphAnalysis.py obj_dependency_data.csv
-```
-
-## How to access
-
-Access Web UI on 8050 port. 
+DockerHub link:
+<https://hub.docker.com/repository/docker/carbonbasedsoul/graph-analysis-multistage>
