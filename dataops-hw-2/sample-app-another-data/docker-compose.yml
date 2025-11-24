@@ -1,0 +1,10 @@
+services:
+  graph-analysis:
+    build:
+      context: .
+      dockerfile: Dockerfile-entrypoint
+    ports:
+      - "8050:8050"
+    volumes:
+      - ./data:/app/data
+    command: data/microservices_dependencies.csv

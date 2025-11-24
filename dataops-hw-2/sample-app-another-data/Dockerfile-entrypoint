@@ -1,0 +1,4 @@
+FROM elisska/devops-helpers:dockerfile-method
+
+ENTRYPOINT ["python", "GraphAnalysis.py"]
+CMD ["data/obj_dependency_data.csv"]
