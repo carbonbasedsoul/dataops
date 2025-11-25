@@ -1,0 +1,61 @@
+Permissions Size User     Date Modified Git Name
+drwxr-xr-x@    - vychikov 25 Nov 02:05   -N .
+drwxr-xr-x@    - vychikov 25 Nov 02:02   -N ├── backend
+drwxr-xr-x@    - vychikov 25 Nov 01:54   -N │   ├── config
+.rw-r--r--@  293 vychikov 25 Nov 01:54   -N │   │   ├── config.js
+.rw-r--r--@  183 vychikov 25 Nov 01:54   -N │   │   ├── config.json
+.rw-r--r--@ 1.3k vychikov 25 Nov 01:54   -N │   │   └── messages.js
+drwxr-xr-x@    - vychikov 25 Nov 01:54   -N │   ├── db
+.rw-r--r--@  742 vychikov 25 Nov 01:54   -N │   │   └── index.js
+drwxr-xr-x@    - vychikov 25 Nov 01:54   -N │   ├── logs
+.rw-r--r--@    0 vychikov 25 Nov 01:54   -N │   │   └── .gitkeep
+drwxr-xr-x@    - vychikov 25 Nov 01:54   -N │   ├── models
+drwxr-xr-x@    - vychikov 25 Nov 01:54   -N │   │   └── todos
+.rw-r--r--@  224 vychikov 25 Nov 01:54   -N │   │       └── todo.js
+drwxr-xr-x@    - vychikov 25 Nov 01:54   -N │   ├── routes
+.rw-r--r--@ 1.1k vychikov 25 Nov 01:54   -N │   │   └── index.js
+drwxr-xr-x@    - vychikov 25 Nov 01:54   -N │   ├── utils
+drwxr-xr-x@    - vychikov 25 Nov 01:54   -N │   │   └── helpers
+.rw-r--r--@  296 vychikov 25 Nov 01:54   -N │   │       ├── logger.js
+.rw-r--r--@  684 vychikov 25 Nov 01:54   -N │   │       └── responses.js
+.rw-r--r--@ 6.1k vychikov 25 Nov 02:03   -N │   ├── .DS_Store
+.rw-r--r--@   13 vychikov 25 Nov 01:54   -N │   ├── .dockerignore
+.rw-r--r--@  594 vychikov 25 Nov 01:54   -N │   ├── Dockerfile
+.rw-r--r--@ 2.0k vychikov 25 Nov 01:54   -N │   ├── README.md
+.rw-r--r--@  65k vychikov 25 Nov 01:54   -N │   ├── package-lock.json
+.rw-r--r--@  752 vychikov 25 Nov 01:54   -N │   ├── package.json
+.rw-r--r--@  702 vychikov 25 Nov 01:54   -N │   └── server.js
+drwxr-xr-x@    - vychikov 25 Nov 02:02   -N ├── frontend
+drwxr-xr-x@    - vychikov 25 Nov 01:54   -N │   ├── public
+.rw-r--r--@ 3.1k vychikov 25 Nov 01:54   -N │   │   ├── favicon.ico
+.rw-r--r--@ 1.7k vychikov 25 Nov 01:54   -N │   │   ├── index.html
+.rw-r--r--@ 5.3k vychikov 25 Nov 01:54   -N │   │   ├── logo192.png
+.rw-r--r--@ 9.7k vychikov 25 Nov 01:54   -N │   │   ├── logo512.png
+.rw-r--r--@  492 vychikov 25 Nov 01:54   -N │   │   ├── manifest.json
+.rw-r--r--@   67 vychikov 25 Nov 01:54   -N │   │   └── robots.txt
+drwxr-xr-x@    - vychikov 25 Nov 02:04   -N │   ├── src
+drwxr-xr-x@    - vychikov 25 Nov 01:54   -N │   │   ├── components
+.rw-r--r--@  697 vychikov 25 Nov 01:54   -N │   │   │   ├── AddTodo.js
+.rw-r--r--@  945 vychikov 25 Nov 01:54   -N │   │   │   └── TodoList.js
+.rw-r--r--@ 6.1k vychikov 25 Nov 02:05   -I │   │   ├── .DS_Store
+.rw-r--r--@ 1.3k vychikov 25 Nov 01:54   -N │   │   ├── App.js
+.rw-r--r--@  346 vychikov 25 Nov 01:54   -N │   │   ├── App.scss
+.rw-r--r--@  248 vychikov 25 Nov 01:54   -N │   │   ├── App.test.js
+.rw-r--r--@  191 vychikov 25 Nov 01:54   -N │   │   ├── custom.scss
+.rw-r--r--@  366 vychikov 25 Nov 01:54   -N │   │   ├── index.css
+.rw-r--r--@  477 vychikov 25 Nov 01:54   -N │   │   ├── index.js
+.rw-r--r--@ 8.2k vychikov 25 Nov 01:54   -N │   │   ├── logo.svg
+.rw-r--r--@ 5.0k vychikov 25 Nov 01:54   -N │   │   └── serviceWorker.js
+.rw-r--r--@ 6.1k vychikov 25 Nov 02:05   -I │   ├── .DS_Store
+.rw-r--r--@   27 vychikov 25 Nov 01:54   -N │   ├── .dockerignore
+.rw-r--r--@  315 vychikov 25 Nov 01:54   -N │   ├── .gitignore
+.rw-r--r--@  839 vychikov 25 Nov 01:54   -N │   ├── Dockerfile
+.rw-r--r--@  804 vychikov 25 Nov 01:54   -N │   ├── README.md
+.rw-r--r--@ 515k vychikov 25 Nov 01:54   -N │   ├── package-lock.json
+.rw-r--r--@  936 vychikov 25 Nov 01:54   -N │   └── package.json
+.rw-r--r--@ 6.1k vychikov 25 Nov 02:05   -N ├── .DS_Store
+.rw-r--r--@   63 vychikov 25 Nov 01:54   -N ├── .gitignore
+.rw-r--r--@ 6.0k vychikov 25 Nov 01:54   -N ├── README.md
+.rw-r--r--@  807 vychikov 25 Nov 01:54   -N ├── compose.yaml
+.rw-r--r--@    0 vychikov 25 Nov 02:05   -N ├── file-list.txt
+.rw-r--r--@  22k vychikov 25 Nov 01:54   -N └── output.png
